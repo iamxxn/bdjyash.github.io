@@ -1,0 +1,14 @@
+changeFigure:none;
+
+changeBg:none;
+intro:恭喜通关！|本游戏共8个结局|6个BE，1个GE，1个TE -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:下面是对结局的解释 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:趋炎附势：膀胱不特别喜欢夸他的人，一味跟随只能芸芸众生|赢得生前身后名：出自辛弃疾《破阵子·为陈同甫赋壮词已记之》，意思就是生前死后都出了名了|苦命鸳鸯：不做解释|未解之谜：就是你不知道 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:年少崩殂：前二字出自辛弃疾《南乡子~登京口北固亭有怀》，后二字诸葛亮《出师表》，原句“年少万兜鍪”选了前二字，表达年少就思乐|了却君王天下事：出自辛弃疾《破阵子·为陈同甫赋壮词已记之》，膀胱比喻为君王，了却了膀胱的心思，但你是一点不给自己找出路啊|如愿以偿：字面意思|南柯一梦：true end有详细解释 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:其实一直以来都是“你”的幻想，不然你为什么连他们的名字都记不住了呢，而膀胱作为“主角”爱慕的对象当然是记得清清楚楚，你和他的点点滴滴 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:南柯一梦是真结局就意味着主角的真正的动作还是没有到哪一步的，而初中时的爱慕到主角现实的时代也无法放下 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:              特别鸣谢|膀胱|侯佳欢|苏天逸|瓦达西 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:我的电脑|我的细胞|我的手|冯·诺伊曼 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:比尔盖茨|秦始皇|做出这个电脑的工人 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:游戏结束 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

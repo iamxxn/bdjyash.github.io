@@ -1,0 +1,7 @@
+changeBg:bg.webp -next;
+setTransition: -enter=blur -exit=dotFilm -target=fig-left;
+changeFigure:膀胱.png -left -next -id=91;
+膀胱:你是叫什么呢？ -v1.wav -notend;
+getUserInput:a -title=王_欢 -buttonText=点击确认;
+膀胱:王{a}欢啊，我懂了;
+changeScene:第一章.txt;

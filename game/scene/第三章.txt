@@ -1,0 +1,16 @@
+changeFigure:none;
+changeBg:none;
+intro:第三章|怅惘 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:办公室.jpg;
+changeFigure:none -right;
+changeFigure:膀胱.png;
+:九年级了，分班了，虽然很难受，但还要进行下去啊😭;
+:你注意到膀胱仍然是你们的物理老师;
+:你对此还是很“开心”的，尽管你们总是相爱相杀;
+:在这里有一名苏姓同学和一个姜姓同学和你关系比较好;
+:由于分班后他80%的人不认识，所以你也算是集万千宠爱于一身了;
+:你也很仰慕他;
+changeBg:js.jpg;
+:有一天，在课上;
+膀胱:王{a}欢，在并联电路中，R1=3Ω，R2=5Ω，测得R1电流为0.4A，电源电压为3V，问R2电流是？ -o.wav;
+choose:1A:right.txt|0.96A:wrong.txt|1.1A:wrong.txt;

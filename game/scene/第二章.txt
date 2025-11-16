@@ -1,0 +1,13 @@
+changeBg:none;
+changeFigure:none;
+intro:第二章|熟识 -fontSize=medium -backgroundColor=rgba(3, 2, 2, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:转眼间八年级就快过去了;
+pixiPerform:rain;
+changeBg:cc.png;
+:再有一年，你们就要体育中考了|马氏也同意你们上一节体育;
+:膀胱却已外面下雨了为理由，把你们叫了回来|真的是太cs了;
+pixiInit;
+changeBg:js.jpg;
+changeFigure:膀胱.png;
+:注：重要分支请谨慎选择;
+choose:忍气吞声上课:renqitunsheng.txt|我不上了回家:不上.txt;

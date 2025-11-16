@@ -1,0 +1,15 @@
+:你选择了先做数学|不知怎的，今天的数学格外难，你整整做了三节课才差不多做完|导致你其他作业一点没写;
+你:已经能感受到明天的风暴了。。。;
+:到了第二天，果不其然十分悲惨，几乎堂堂课都站着;
+:而膀胱给你叫到办公室了;
+changeBg:办公室.jpg;
+changeFigure:膀胱.png;
+膀胱:为什么没写作业！？ -x.wav;
+changeFigure:膀胱.png -transform={"colorRed":255,"colorGreen":0,"colorBlue":0,"bevelRed":201,"bevelGreen":34,"bevelBlue":34,"glitchFilm":1,"godrayFilm":1};
+回答我！ -as.wav;
+choose:我，我没时间了。:选择场景文件|你的大光头照的我脑袋疼写不了:cs.txt;
+膀胱:王{a}欢，你还没上时间了？|午休之前交给我 -rc.wav;
+你:哦哦哦;
+:你快步离开了;
+:不知为何，他没给你什么实质性的惩罚;
+changeScene:第二章.txt;

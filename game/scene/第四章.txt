@@ -1,0 +1,16 @@
+changeBg:none;
+intro:终章|  亦是第四章|                 终局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:cc.png;
+pixiPerform:heavySnow;
+:时光匆匆，等海流....|我是人？;
+:总而言之，时光转瞬即逝，你和膀胱也有很大可能就此分离;
+:你心中，至少你控制的角色的心中对膀胱还是很仰慕的;
+:这么长时间的相处，我也不相信膀胱和你分离他真就完全不舍得;
+:等下，快毕业不是六七月吗，怎么有雪;
+:可能比较称景吧;
+pixiInit;
+changeBg:js.jpg;
+changeFigure:膀胱.png;
+:但总而言之;
+:那你要不要表达出对膀胱的爱慕之情呢;
+choose:必然:go.txt|不不不:no.txt;

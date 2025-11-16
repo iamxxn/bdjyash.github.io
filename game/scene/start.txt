@@ -1,0 +1,3 @@
+intro:你好！|欢迎游玩《霸道膀胱爱上欢》 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:本故事纯属虚构，若有雷同，仅为巧合 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 0, 4, 1) -animation=revealAnimation -delayTime=5000;
+callScene:命名区.txt;

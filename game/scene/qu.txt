@@ -1,0 +1,12 @@
+
+bgm:kmyy.mp3;
+changeBg:cc.png;
+众人:赶走庞老贼！;
+:昨天他的占课引发了众人的愤怒，而没有你的气氛调和，今天爆发了;
+:他们现在要求你亲自赶走他;
+你:你，可还有话说;
+changeFigure:yy.jpg -transform={"position":{"y":200}};
+庞老贼:再无话说，请速速动手;
+:达成结局【苦命鸳鸯】;
+bgm:none;
+end;

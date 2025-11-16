@@ -1,0 +1,7 @@
+膀胱:趋炎附势的人们啊（默默说） -1234.wav;
+unlockCg:12333.png;
+changeBg:cc.png;
+:此后，你们只是互相生命中的过客罢了，时光匆匆，你们再无任何瓜葛;
+changeFigure:none -ease=easeOut;
+:达成结局【趋炎附势】;
+end;

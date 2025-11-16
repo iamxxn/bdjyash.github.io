@@ -1,0 +1,11 @@
+
+:在一个没人的角落，你找到膀胱并表达了你对他的爱慕之情;
+你:膀胱酱，我对你爱慕已久了 -pgj.wav;
+:你愿意接受吗？ -@.wav;
+:我，我 -wdx.wav;
+changeBg:cc.png;
+changeFigure:none;
+:事了拂衣去;
+:达成结局【如愿以偿】;
+:GE;
+callScene:彩蛋.txt;

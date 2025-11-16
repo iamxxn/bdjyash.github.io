@@ -1,0 +1,5 @@
+Game_name:霸道膀胱爱上欢;
+Game_key:108b4d7fd5cfb62;
+Title_img:pg.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
